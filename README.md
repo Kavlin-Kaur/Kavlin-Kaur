@@ -44,16 +44,7 @@
 ### 🌈 [**Poetry Portfolio** (Coming Soon!)](#)
 🖌️ React + Tailwind | Showcasing my creative side through words 📝
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" width="47%" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
