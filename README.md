@@ -48,9 +48,9 @@
 
 ## 🌐 Connect With Me
 
-<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:yourname@email.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://instagram.com/yourprofile"><img src="https://img.shields.io/badge/-Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white"/></a>
+<a href="www.linkedin.com/in/kavlin-kaur"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="kavlinkaur2907@gmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://instagram.com/k_kavlin"><img src="https://img.shields.io/badge/-Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white"/></a>
 
 ---
 
