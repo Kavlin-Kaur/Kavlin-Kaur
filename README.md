@@ -8,7 +8,7 @@
 ---
 
 ## 🌸 About Me
-- 💻 Master’s in **Computer Applications (AI Specialization)**
+- 💻 Masters in **Computer Applications (AI Specialization)**
 - 🌐 Full-Stack Developer — front to back, I gotchu
 - 🧠 Passionate about **AI**, **Machine Learning**, and using tech to solve real-world problems
 - 🐍 Python Addict | 🎨 Web Dev Aesthetic | 📝 Poet at Heart
