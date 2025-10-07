@@ -22,27 +22,12 @@
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react) 
 ![Flask](https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask) 
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)  
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django) 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=bootstrap)  
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql) 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git) 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 ---
-
-## 🧩 My Projects
-
-### 🚀 [**Sangam – Alumni Portal**](#)
-🔗 Django + Bootstrap | 🧑‍🎓 Authentication, User/Faculty Forms, AI/ML Scope
-
-### 🚌 [**PythonBus – Bus Management System**](#)
-🛠️ Flask + Bootstrap + SQLAlchemy | Admin + Booking System with Dashboards
-
-### 🔐 [**Safe Return – Lost & Found App**](#)
-⚛️ React + Django + Axios | API Auth, Profile Checker, AI-ready
-
-### 🌈 [**Poetry Portfolio** (Coming Soon!)](#)
-🖌️ React + Tailwind | Showcasing my creative side through words 📝
 
 
 
