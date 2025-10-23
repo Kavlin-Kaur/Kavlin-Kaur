@@ -17,27 +17,25 @@
 
 ## 🌸 About Me
 
-```python
-class Kavlin:
-    def __init__(self):
-        self.name = "Kavlin Kaur"
-        self.location = "Solan, Himachal Pradesh 📍"
-        self.education = {
-            "current": "MCA (AI Specialization) @ Shoolini University",
-            "cgpa": "9.82/10 🎓",
-            "rank": "Top 10% for 2 consecutive semesters 🏆"
-        }
-        self.role = "AI Enthusiast | Full-Stack Developer | Open Source Contributor"
-        self.motto = "Learn. Build. Repeat."
-        
-    def current_focus(self):
-        return [
-            "🤖 Artificial Intelligence & Machine Learning",
-            "🌐 Building scalable web applications",
-            "🌟 Contributing to open source",
-            "📝 Writing poetry with code"
-        ]
-```
+**🎓 MCA Student (AI Specialization)** at Shoolini University  
+**✨ CGPA: 9.82/10** | **🏆 Top 10% Performer** (2 consecutive semesters)
+
+**🌸 Who Am I?**
+- 💻 **AI Enthusiast** building intelligent solutions that matter
+- 🌐 **Full-Stack Developer** crafting seamless digital experiences  
+- 🦈 **Open Source Contributor** with 3 Sharks & top contributor badges
+- ✍️ **Poet & Coder** - because creativity flows through both words and algorithms
+- 🎨 **UI/UX Lover** obsessed with making tech beautiful
+- 🐍 **Python Addict** who dreams in code
+
+**🚀 Currently Vibing With:**
+- Building AI-powered web apps that solve real problems
+- Contributing to open source communities (GSSoC, Hacktoberfest)
+- Exploring the magical intersection of AI × Design × Development
+- Writing code that's as elegant as poetry
+
+**💭 My Mantra:**  
+*"Messed-up Mind. Methodical Moves. Magnetic Mindset. Meaningful Mission."*
 
 <div align="center">
 
