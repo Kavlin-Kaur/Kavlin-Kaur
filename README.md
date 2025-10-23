@@ -20,15 +20,15 @@
 
 ```yaml
 name: Kavlin Kaur
-located_in: Mandi, Himachal Pradesh, India
-current_education: MCA (AI Specialization) @ Shoolini University
-cgpa: 9.82/10
-previous_education: BCA @ Himachal Pradesh University
-previous_cgpa: 8.24/10
+current_role: AI Enthusiast & Full-Stack Developer
+education: 
+  - MCA (AI Specialization) | Shoolini University | CGPA: 9.82/10
+  - BCA | Himachal Pradesh University | CGPA: 8.24/10
 
-focus: ["Artificial Intelligence", "Full-Stack Development", "UI/UX Design"]
+specialization: ["Artificial Intelligence", "Full-Stack Development", "UI/UX Design"]
 philosophy: "Code is poetry — every commit, a verse; every project, a story"
-currently_learning: ["Advanced AI/ML", "Cloud Architecture", "System Design"]
+currently_exploring: ["Advanced AI/ML", "Cloud Architecture", "System Design"]
+interests: ["Open Source", "Research", "Mentoring", "Creative Writing"]
 ```
 
 <div align="center">
