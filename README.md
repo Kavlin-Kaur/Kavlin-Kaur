@@ -18,18 +18,29 @@
 
 </div>
 
-```yaml
-name: Kavlin Kaur
-current_role: AI Enthusiast & Full-Stack Developer
-education: 
-  - MCA (AI Specialization) | Shoolini University | CGPA: 9.82/10
-  - BCA | Himachal Pradesh University | CGPA: 8.24/10
+<table>
+<tr>
+<td>
 
-specialization: ["Artificial Intelligence", "Full-Stack Development", "UI/UX Design"]
-philosophy: "Code is poetry — every commit, a verse; every project, a story"
-currently_exploring: ["Advanced AI/ML", "Cloud Architecture", "System Design"]
-interests: ["Open Source", "Research", "Mentoring", "Creative Writing"]
-```
+**👤 Name:** Kavlin Kaur  
+**💼 Role:** AI Enthusiast & Full-Stack Developer
+
+**🎓 Education:**
+- 🎯 MCA (AI Specialization) | Shoolini University | CGPA: **9.82/10**
+- 📚 BCA | Himachal Pradesh University | CGPA: **8.24/10**
+
+**💡 Specialization:**  
+`Artificial Intelligence` • `Full-Stack Development` • `UI/UX Design`
+
+**🚀 Currently Exploring:**  
+`Advanced AI/ML` • `Cloud Architecture` • `System Design`
+
+**❤️ Interests:**  
+`Open Source` • `Research` • `Mentoring` • `Creative Writing`
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
