@@ -48,7 +48,6 @@
 💬 **Volunteer** – International AI Conference 2024  
 
 ---
-
 ## 🪄 Holopin Badges  
 [![An image of @kavlinkaur's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kavlinkaur)](https://holopin.io/@kavlinkaur)
 
