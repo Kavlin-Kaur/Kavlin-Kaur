@@ -99,7 +99,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kavlin-Kaur&show_icons=true&theme=tokyonight&border_radius=15&title_color=E272E5&icon_color=E272E5&bg_color=0D1117&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kavlin-Kaur&theme=tokyonight&hide_border=true&background=0D1117&ring=E272E5&fire=E272E5&currStreakLabel=E272E5" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kavlin-Kaur&theme=tokyonight&hide_border=true&background=0D1117&ring=E272E5&fire=E272E5&currStreakLabel=E272E5" height="170" />
 </p>
 
 <p align="center">
@@ -111,7 +111,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kavlin-Kaur/Kavlin-Kaur/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Kavlin-Kaur/Kavlin-Kaur/main/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -119,7 +119,7 @@
 ## 🪩 3D GitHub Profile  
 
 <p align="center">
-  <img src="https://github.com/Kavlin-Kaur/Kavlin-Kaur/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="700" />
+  <img src="https://raw.githubusercontent.com/Kavlin-Kaur/Kavlin-Kaur/main/profile-3d-contrib/profile-night-rainbow.svg" width="700" />
 </p>
 
 ---
