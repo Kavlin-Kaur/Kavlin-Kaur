@@ -85,7 +85,17 @@
 
 ---
 
-## 📊 GitHub Analytics  
+## ⚡ GitHub Overview  
+
+> *Every commit is a story, every repo a dream turned real.*  
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kavlin-Kaur&theme=tokyonight" alt="GitHub Profile Summary" />
+</p>
+
+---
+
+## 💫 GitHub Analytics Hub  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kavlin-Kaur&show_icons=true&theme=tokyonight&border_radius=15&title_color=E272E5&icon_color=E272E5&bg_color=0D1117&hide_border=true" height="170" />
@@ -94,6 +104,22 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavlin-Kaur&layout=compact&theme=tokyonight&hide_border=true&title_color=E272E5" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kavlin-Kaur&bg_color=0D1117&color=E272E5&line=E272E5&point=FFFFFF&area=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kavlin-Kaur/Kavlin-Kaur/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🪩 3D GitHub Profile  
+
+<p align="center">
+  <img src="https://github.com/Kavlin-Kaur/Kavlin-Kaur/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="700" />
 </p>
 
 ---
