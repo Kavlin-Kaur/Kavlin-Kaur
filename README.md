@@ -1,79 +1,120 @@
-<h1 align="center">✨ Hey, I'm <span style="color:#E272E5;">Kavlin Kaur</span> 🌸</h1>
-<h3 align="center">where <i>logic</i> meets <i>lyric</i> — and code becomes art 💻🎨</h3>
+<!-- 🌸 KAVLIN KAUR | THE AESTHETIC DEVELOPER README 🌸 -->
+
+<h1 align="center">🌸 Hey there, I'm <span style="color:#E272E5;">Kavlin Kaur</span> 💻</h1>
+<h3 align="center">AI Explorer • Full-Stack Developer • Dream Builder ✨</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=E272E5&center=true&vCenter=true&width=600&height=80&lines=AI+Learner+%7C+Full+Stack+Creator;Open+Source+Contributor+%7C+Dream+Builder;Turning+Ideas+into+Experiences+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=E272E5&center=true&vCenter=true&width=700&height=80&lines=Creating+Meaningful+Tech+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Crafting+Experiences+that+Think,+Feel+%26+Inspire+%F0%9F%92%9C;Code.+Create.+Conquer.+Repeat.+%F0%9F%8C%9F" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🌷 About Me  
-✨ MCA (AI Specialization) @ *Shoolini University* — CGPA **9.82**  
-🎓 BCA Graduate from *Himachal Pradesh University* — CGPA **8.24**  
-🌍 Top 10% Performer | Open Source Contributor | Hackathon Finalist  
-
-💡 I’m driven by curiosity and creativity — building products that *think*, *feel*, and *help.*  
-🧠 Exploring **AI × Web Development × Human Experience**  
-🎨 Developer by day, **poet by heart**, always crafting something beautiful — in code or in words.  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E272E5&height=100&section=header" />
+</p>
 
 ---
 
-## 🛠️ My Tech Playground  
+## 🌸 About Me  
+💻 Pursuing **MCA (AI Specialization)** @ *Shoolini University* — CGPA **9.82**  
+🎓 BCA Graduate from *Himachal Pradesh University* — CGPA **8.24**  
+🏅 *Top 10% Performer | AI Enthusiast | Hackathon Finalist*  
+
+✨ I build software that blends **logic with emotion**, **design with depth**, and **innovation with impact**.  
+🧠 Exploring the magic where **AI meets Art** and **tech meets humanity**.  
+🎨 Developer by code, **poet by soul** — forever chasing elegance in everything I create.  
+
+---
+
+## ⚙️ Tech Stack  
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,react,flask,tailwind,bootstrap,mysql,html,css,js,git,github,postman,vscode&theme=light" />
 </p>
 
+> 💡 *From backend logic to frontend aesthetics — I love building it all.*
+
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Projects That Define My Journey  
 
 💫 **Kavlin Conveys** — *HTML, CSS, JS*  
-> A poetic portfolio blending minimalism and emotion — a space for words to breathe.  
+> A poetic portfolio for my writings — where design meets emotion.  
 
 🚌 **Happy Trails (Bus Management System)** — *Flask + SQLAlchemy*  
-> Dynamic backend web app to manage travel routes and user experiences seamlessly.  
+> Backend-integrated travel management platform with smooth user interaction.  
 
 🔍 **Safe Return (Lost & Found Web App)** — *React + Django*  
-> Built during *Glitch Hackathon 2024*, an AI-based solution for item recovery.  
-> 🥈 *2nd Runner-Up Winner — recognized for innovation and execution.*
+> 🥈 *2nd Runner-Up @ Glitch Hackathon 2024*  
+> AI-powered web app for lost item recovery — empathy meets efficiency.  
 
 ---
 
-## 🌸 Highlights & Achievements  
+## 🌟 Highlights & Achievements  
+
 🏅 **Top Contributor – GSSoC 2025**  
 🌍 **Hacktoberfest Winner (Top 10k Globally)**  
-🧠 **Research Paper:** “CardioScope QPSO Optimization”  
-🎓 **Dean’s List (Top 10%) — Shoolini University**  
-🧩 **Academic Mentor & Project Lead** – guided peers and led impactful projects.  
-💬 **Volunteer** – International AI Conference 2024  
+🧠 **Research Paper:** *CardioScope QPSO Optimization*  
+🎓 **Dean’s List (Top 10%) — Shoolini University*  
+🧩 **Academic Mentor & Project Lead**  
+💬 **Volunteer** – *International AI Conference 2024*  
 
 ---
-## 🪄 Holopin Badges  
-[![An image of @kavlinkaur's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kavlinkaur)](https://holopin.io/@kavlinkaur)
+
+## 🎖️ My Open Source Wall of Fame  
+
+<p align="center">
+  <a href="https://holopin.io/@kavlinkaur">
+    <img src="https://holopin.me/kavlinkaur" alt="@kavlinkaur's Holopin Badges" />
+  </a>
+</p>
+
+> 💬 *Each badge = a story of collaboration, curiosity, and growth.*
 
 ---
 
 ## 📜 Certifications  
+
 - 🧠 IBM AI Certification  
 - ☁️ Oracle Cloud Infrastructure Professional  
 - 🔧 Postman API Fundamentals  
-- 💻 100 Days of Code (Python Pro Bootcamp – Udemy)  
-- 🧑‍💻 Full Stack Web Development (Udemy)  
+- 💻 100 Days of Code: Python Pro Bootcamp (Udemy)  
+- 🧑‍💻 Full Stack Web Dev Bootcamp (Udemy)  
 - 🌐 Cisco Networking Basics  
 - 🤖 Generative AI (LinkedIn Learning)
 
 ---
 
-## 💖 Beyond the Screen  
-When I’m not coding, you’ll find me —  
-🖋 writing poems,  
-🎧 vibing to lofi beats,  
-🌸 sketching aesthetics,  
-and dreaming of algorithms that *understand art.*
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kavlin-Kaur&show_icons=true&theme=tokyonight&border_radius=15&title_color=E272E5&icon_color=E272E5&bg_color=0D1117&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kavlin-Kaur&theme=tokyonight&hide_border=true&background=0D1117&ring=E272E5&fire=E272E5&currStreakLabel=E272E5" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavlin-Kaur&layout=compact&theme=tokyonight&hide_border=true&title_color=E272E5" height="150" />
+</p>
 
 ---
 
-## 🌐 Connect with Me  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E272E5&height=100&section=footer" />
+</p>
+
+---
+
+## 💖 Beyond the Code  
+🌷 Writing poetry that mirrors logic  
+🎧 Coding to lofi beats with coffee  
+💭 Sketching interfaces that think like humans  
+🚀 Mentoring & collaborating to make tech more humane  
+
+> “I don’t just write code. I craft experiences that *breathe.*”
+
+---
+
+## 🌐 Let’s Connect  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kavlin-kaur">
@@ -92,4 +133,4 @@ and dreaming of algorithms that *understand art.*
 
 ---
 
-<h3 align="center">🧠 "Code is poetry, and I’m just learning to rhyme in logic." 💫</h3>
+<h3 align="center">🧠 “Code is poetry — and every commit is a verse.” 💫</h3>
