@@ -2,7 +2,7 @@
 
 # Hello, I'm **Kavlin Kaur**
 
-### *AI Student• Developer • Poet * ✨
+### AI Student• Developer • Poet  ✨
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=E272E5&center=true&vCenter=true&width=700&lines=Turning+Ideas+into+Living+Code+🧑‍💻;Blending+Logic+with+Emotion+💜;Code.+Create.+Conquer.+With+Heart+🌟)
 
