@@ -1,161 +1,210 @@
+```ascii
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   ██╗  ██╗ █████╗ ██╗   ██╗██╗     ██╗███╗   ██╗    ██╗  ██╗ █████╗ ██╗   ██╗██████╗  ║
+║   ██║ ██╔╝██╔══██╗██║   ██║██║     ██║████╗  ██║    ██║ ██╔╝██╔══██╗██║   ██║██╔══██╗ ║
+║   █████╔╝ ███████║██║   ██║██║     ██║██╔██╗ ██║    █████╔╝ ███████║██║   ██║██████╔╝ ║
+║   ██╔═██╗ ██╔══██║╚██╗ ██╔╝██║     ██║██║╚██╗██║    ██╔═██╗ ██╔══██║██║   ██║██╔══██╗ ║
+║   ██║  ██╗██║  ██║ ╚████╔╝ ███████╗██║██║ ╚████║    ██║  ██╗██║  ██║╚██████╔╝██║  ██║ ║
+║   ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚═╝╚═╝  ╚═══╝    ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝ ║
+║                                                                              ║
+║                        > ACCESS GRANTED: DEVELOPER PROFILE                   ║
+║                        > INITIALIZING SYSTEM PROTOCOLS...                    ║
+║                        > LOADING NEURAL PATHWAYS...                          ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
 <div align="center">
 
-# Hello, I'm **Kavlin Kaur**
+### `$ whoami`
 
-### AI Student• Developer • Poet  ✨
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=E272E5&center=true&vCenter=true&width=700&lines=Turning+Ideas+into+Living+Code+🧑‍💻;Blending+Logic+with+Emotion+💜;Code.+Create.+Conquer.+With+Heart+🌟)
-
-![Header Wave](https://capsule-render.vercel.app/api?type=waving&color=E272E5&height=120&section=header&text=&fontSize=0)
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Kavlin Kaur"
+        self.role = "AI Architect | Full-Stack Alchemist"
+        self.location = "Dharamsala, IN"
+        self.languages_spoken = ["Python", "JavaScript", "Hindi", "English", "Poetry"]
+        self.current_focus = ["Neural Networks", "System Design", "Open Source"]
+        self.philosophy = "Code that breathes, systems that think, designs that feel"
+        
+    def get_status(self):
+        return {
+            "working_on": "Building intelligent systems that matter",
+            "learning": "Advanced ML architectures & distributed systems",
+            "collaborating": "Open source projects that push boundaries",
+            "dreaming": "AI that understands emotion, not just logic"
+        }
+```
 
 </div>
 
 ---
 
+## `> system.status()`
+
+```bash
+[SYSTEM ONLINE] Quantum state: Superposition of creativity & logic
+[NEURAL NET] Training on: curiosity.dataset, innovation.model, empathy.weights
+[STACK TRACE] Deep in: AI/ML | Cloud | Full-Stack | UI/UX Sorcery
+```
+
 <div align="center">
 
-## 🌸 **About Me**
+![Matrix SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=2000&pause=1000&color=00F700&background=000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Initializing+consciousness...;Loading+frameworks...;Compiling+dreams...;System+ready.+Let's+build.)
+
+</div>
+
+---
+
+## `> cat /proc/expertise`
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[Brain] --> B{Processing}
+    B --> C[AI/ML]
+    B --> D[Full-Stack]
+    B --> E[Cloud]
+    C --> F[Neural Networks]
+    C --> G[Deep Learning]
+    D --> H[React Ecosystems]
+    D --> I[Python Backend]
+    E --> J[Distributed Systems]
+    style A fill:#ff00ff,stroke:#fff,stroke-width:2px
+    style B fill:#00ffff,stroke:#fff,stroke-width:2px
+    style C fill:#00ff00,stroke:#fff,stroke-width:2px
+    style D fill:#00ff00,stroke:#fff,stroke-width:2px
+    style E fill:#00ff00,stroke:#fff,stroke-width:2px
+```
+
+</div>
+
+### `> ls -la /skills/`
+
+```
+drwxr-xr-x  brain/neural        .
+drwxr-xr-x  logic/systems       ..
+-rwxr-xr-x  python.core         [████████████████████] 95%
+-rwxr-xr-x  javascript.engine   [████████████████████] 92%
+-rwxr-xr-x  ai_ml.algorithms    [█████████████████░░░] 88%
+-rwxr-xr-x  react.components    [█████████████████░░░] 90%
+-rwxr-xr-x  system.architecture [████████████████░░░░] 85%
+-rwxr-xr-x  cloud.infrastructure[███████████████░░░░░] 82%
+-rwxr-xr-x  ui_ux.design        [█████████████████░░░] 87%
+-rwxr-xr-x  problem.solving     [████████████████████] 98%
+```
+
+<div align="center">
+
+**PRIMARY STACK** → `Python` `JavaScript` `React` `Flask` `Django` `AI/ML` `Cloud`
+
+**INTERFACE LAYER** → `TailwindCSS` `Bootstrap` `HTML5` `CSS3` `Responsive Design`
+
+**DATA PERSISTENCE** → `MySQL` `SQLAlchemy` `Database Architecture`
+
+**VERSION CONTROL** → `Git` `GitHub` `CI/CD Pipelines`
+
+</div>
+
+---
+
+## `> ./projects --list --status=deployed`
+
+<div align="center">
+
+### 🔮 **CLASSIFIED OPERATIONS**
 
 </div>
 
 <table>
 <tr>
-<td>
+<td width="50%">
 
-**👤 Name:** Kavlin Kaur  
-**💼 Role:** AI Enthusiast & Full-Stack Developer
+#### `[PROJECT: SAFE_RETURN]` 🥈
+**Classification:** AI-Powered Retrieval System  
+**Tech Stack:** React • Django • ML Algorithms  
+**Status:** `OPERATIONAL` | 2nd Place @ Glitch '24
 
-**🎓 Education:**
-- 🎯 MCA (AI Specialization) | Shoolini University | CGPA: **9.82/10**
-- 📚 BCA | Himachal Pradesh University | CGPA: **8.24/10**
+```python
+# Real-time image recognition
+# Location-based matching algorithms
+# Neural network for item classification
+>>> Reuniting lost items with 87% accuracy
+```
 
-**💡 Specialization:**  
-`Artificial Intelligence` • `Full-Stack Development` • `UI/UX Design`
-
-**🚀 Currently Exploring:**  
-`Advanced AI/ML` • `Cloud Architecture` • `System Design`
-
-**❤️ Interests:**  
-`Open Source` • `Research` • `Mentoring` • `Creative Writing`
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-💫 **I craft software where logic dances with emotion, design embraces depth, and innovation leaves a mark.**
-
-🧠 **Exploring the space where AI meets Art, and technology becomes poetry.**
-
-🎨 **Developer by craft, poet by soul — forever chasing elegance in every creation.**
-
-</div>
-
----
-
-<div align="center">
-
-## ⚙️ **Tech Arsenal**
-
-<img src="https://skillicons.dev/icons?i=python,react,flask,django,tailwind,bootstrap,mysql,html,css,js,git,github,postman,vscode&theme=dark&perline=7" alt="Tech Stack" />
-
-</div>
-
-<div align="center">
-
-### **Languages & Frameworks**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### **Styling & UI**
-
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-### **Database & Tools**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
-<p align="center">
-<i>💡 From the whisper of backend logic to the bloom of frontend aesthetics — I build it all.</i>
-</p>
-
----
-
-<div align="center">
-
-## 🚀 **Projects That Tell My Story**
-
-</div>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 💫 **Kavlin Conveys**
-**Tech Stack:** `HTML` `CSS` `JavaScript`
-
-A digital canvas for my poetry and prose — where words meet design. An elegant platform showcasing creative writing with immersive UI/UX.
-
-**Features:**
-- 📝 Interactive poetry display
-- 🎨 Aesthetic design patterns
-- 📱 Fully responsive layout
+**Core Functions:**
+- AI-powered visual matching
+- Geospatial data processing
+- Real-time notification pipeline
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🚌 **Happy Trails**
-**Tech Stack:** `Flask` `SQLAlchemy` `MySQL`
+#### `[PROJECT: HAPPY_TRAILS]`
+**Classification:** Travel Management System  
+**Tech Stack:** Flask • SQLAlchemy • MySQL  
+**Status:** `LIVE`
 
-A seamless travel management platform where backend magic meets smooth user experience. Complete bus booking system with admin dashboard.
+```javascript
+// Backend architecture
+const system = {
+  authentication: 'JWT-based',
+  database: 'Relational MySQL',
+  api: 'RESTful design',
+  admin: 'Dashboard analytics'
+}
+```
 
-**Features:**
-- 🎫 Real-time seat booking
-- 👤 User authentication
-- 📊 Admin analytics panel
+**Core Functions:**
+- Real-time seat management
+- Dynamic pricing algorithms
+- Admin control panel
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🔍 **Safe Return** 🥈
-**Tech Stack:** `React` `Django` `AI/ML`
+#### `[PROJECT: CARDIOSCOPE]`
+**Classification:** Research & Development  
+**Tech Stack:** Python • ML • QPSO Algorithm  
+**Status:** `PUBLISHED`
 
-🏆 **2nd Runner-Up @ Glitch Hackathon 2024**
+```math
+Optimization: Quantum Particle Swarm
+Objective: Cardiovascular Disease Prediction
+Accuracy Improvement: +15% over baseline
+```
 
-AI-powered lost & found platform to reunite items with their owners — empathy in action. Uses image recognition and location-based matching.
-
-**Features:**
-- 🤖 AI image matching
-- 📍 Location-based search
-- 🔔 Real-time notifications
+**Research Focus:**
+- ML model optimization
+- Healthcare AI applications
+- Academic publication
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🧠 **CardioScope Research**
-**Research Paper:** `QPSO Optimization`
+#### `[PROJECT: KAVLIN_CONVEYS]`
+**Classification:** Digital Expression Platform  
+**Tech Stack:** HTML5 • CSS3 • JavaScript  
+**Status:** `EVOLVING`
 
-Academic research on cardiovascular disease prediction using Quantum Particle Swarm Optimization algorithms for enhanced accuracy.
+```css
+.poetry {
+  display: art;
+  blend-mode: technology;
+  emotion: infinite;
+  design: immersive;
+}
+```
 
-**Highlights:**
-- 📊 ML model optimization
-- 📈 Performance analysis
-- 📄 Published research
+**Core Functions:**
+- Interactive poetry display
+- Aesthetic UI/UX design
+- Responsive layouts
 
 </td>
 </tr>
@@ -163,174 +212,123 @@ Academic research on cardiovascular disease prediction using Quantum Particle Sw
 
 ---
 
-<div align="center">
-
-## 🏆 **Achievements & Recognition**
-
-</div>
+## `> git log --contributions --global`
 
 <div align="center">
 
-| 🎯 Achievement | 📝 Details |
-|:---|:---|
-| 🏅 **Top Contributor** | GSSoC 2025 (GirlScript Summer of Code) |
-| 🌍 **Hacktoberfest Winner** | Top 10,000 Contributors Globally |
-| 🥈 **Hackathon Runner-Up** | Glitch Hackathon 2024 - Safe Return Project |
-| 📚 **Dean's List** | Top 10% Academic Performance - Shoolini University |
-| 📝 **Research Publication** | CardioScope QPSO Optimization Paper |
-| 🎓 **Academic Mentor** | Mentoring juniors & leading project teams |
-| 💬 **Conference Volunteer** | International AI Conference 2024 |
+### 🌐 **OPEN SOURCE FOOTPRINT**
 
-</div>
-
----
-
-<div align="center">
-
-## 🎖️ **Open Source Contributions**
+```
+commit a4f2c1b - GSSoC 2025: Top Contributor Status
+commit 8e9d3f7 - Hacktoberfest: Global Top 10K
+commit c5a1b9e - Multiple repositories enhanced
+commit 7f3e2a8 - Community mentoring & code reviews
+commit 2b4f8c3 - Documentation improvements across projects
+```
 
 <a href="https://holopin.io/@kavlinkaur">
-  <img src="https://holopin.me/kavlinkaur" alt="Holopin Badges" width="80%" />
+  <img src="https://holopin.me/kavlinkaur" width="70%" alt="Badge Collection"/>
 </a>
 
-*Every badge tells a tale of curiosity, collaboration, and growth.*
+</div>
+
+---
+
+## `> metrics.visualize()`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Kavlin-Kaur&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ff00&icon_color=00ffff&text_color=ffffff&ring_color=ff00ff" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kavlin-Kaur&theme=radical&hide_border=true&background=0D1117&ring=ff00ff&fire=00ff00&currStreakLabel=00ffff" height="170"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kavlin-Kaur&bg_color=0D1117&color=00ff00&line=00ffff&point=ff00ff&area=true&hide_border=true&custom_title=Neural+Activity+Pattern" width="90%"/>
 
 </div>
 
 ---
 
-<div align="center">
-
-## 📜 **Certifications**
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-
-🧠 **IBM AI Certification**
-
-Advanced AI & Machine Learning
-
-</td>
-<td align="center" width="33%">
-
-☁️ **Oracle Cloud Infrastructure**
-
-Professional Level Certification
-
-</td>
-<td align="center" width="33%">
-
-🔧 **Postman API**
-
-API Fundamentals Expert
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-💻 **Python Pro Bootcamp**
-
-100 Days of Code (Udemy)
-
-</td>
-<td align="center">
-
-🧑‍💻 **Full Stack Web Dev**
-
-Complete Bootcamp (Udemy)
-
-</td>
-<td align="center">
-
-🌐 **Cisco Networking**
-
-Networking Basics Certified
-
-</td>
-</tr>
-<tr>
-<td align="center" colspan="3">
-
-🤖 **Generative AI** - LinkedIn Learning
-
-</td>
-</tr>
-</table>
-
----
+## `> echo $PHILOSOPHY`
 
 <div align="center">
 
-## ⚡ **GitHub Universe**
-
-*Every commit whispers a story; every repo holds a dream.*
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kavlin-Kaur&theme=tokyonight" alt="GitHub Profile Summary" width="80%" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Kavlin-Kaur&show_icons=true&theme=tokyonight&border_radius=15&title_color=E272E5&icon_color=E272E5&bg_color=0D1117&hide_border=true" height="180" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kavlin-Kaur&theme=tokyonight&hide_border=true&background=0D1117&ring=E272E5&fire=E272E5&currStreakLabel=E272E5" height="180" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavlin-Kaur&layout=compact&theme=tokyonight&hide_border=true&title_color=E272E5&langs_count=8" height="180" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kavlin-Kaur&bg_color=0D1117&color=E272E5&line=E272E5&point=FFFFFF&area=true&hide_border=true" width="90%" />
+```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  "Every line of code is a verse in an epic poem,           │
+│   Every algorithm a brushstroke on a digital canvas,       │
+│   Every system a symphony waiting to be conducted."        │
+│                                                             │
+│  I don't just solve problems—I architect solutions          │
+│  that think, breathe, and evolve.                          │
+│                                                             │
+│  Where others see errors, I see opportunities.              │
+│  Where others stop, I iterate.                             │
+│  Where others dream, I build.                              │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
 ---
 
-<div align="center">
-
-## 💖 **Beyond the Code**
-
-</div>
+## `> ./connect --protocol=human`
 
 <div align="center">
 
-🌷 **Poetry that mirrors logic** | 🎧 **Coding to lofi beats, fueled by coffee**
+```bash
+# Establishing secure connection...
+# Handshake protocol: Professional networking
+# Encryption: Authenticity & mutual respect
+```
 
-💭 **Designing interfaces that *think* like humans** | 🚀 **Mentoring & collaborating to make tech more humane**
-
-<br>
-
-### *"I don't just write code. I craft experiences that breathe."*
-
-</div>
-
----
-
-<div align="center">
-
-## 🌐 **Connect With Me**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavlin-kaur)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kavlinkaur2907@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/k_kavlin)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kavlin-Kaur)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/kavlin-kaur)
+[![Email_Protocol](https://img.shields.io/badge/Email_Protocol-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:kavlinkaur2907@gmail.com)
+[![GitHub_Mainframe](https://img.shields.io/badge/GitHub_Mainframe-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/Kavlin-Kaur)
+[![Instagram_Feed](https://img.shields.io/badge/Instagram_Feed-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000)](https://instagram.com/k_kavlin)
 
 </div>
 
 ---
 
+## `> fortune | cowsay`
+
+```
+ _________________________________________
+/ Currently debugging reality, one       \
+| function at a time.                    |
+|                                        |
+| Status: Accepting collaboration        |
+\ requests. Let's build something epic.  /
+ -----------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
+
+---
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E272E5&height=120&section=footer" />
+```
+╔════════════════════════════════════════════════════════════════════╗
+║                                                                    ║
+║  [SYSTEM MESSAGE]                                                  ║
+║  Profile scan complete.                                            ║
+║  Developer status: ACTIVE                                          ║
+║  Availability: Open to innovative projects & collaboration         ║
+║  Next deployment: TBD (building the future, one commit at a time) ║
+║                                                                    ║
+║  > Thank you for accessing this profile.                          ║
+║  > Remember: The best code is yet to be written.                  ║
+║                                                                    ║
+╔════════════════════════════════════════════════════════════════════╗
+```
 
-### 🧠 *"Code is poetry — every commit, a verse; every project, a story."* 💫
+![Profile Views](https://komarev.com/ghpvc/?username=Kavlin-Kaur&color=blueviolet&style=for-the-badge&label=SYSTEM+ACCESS+COUNT)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Kavlin-Kaur&color=E272E5&style=for-the-badge&label=PROFILE+VIEWS)
+**`> logout`**
 
 </div>
