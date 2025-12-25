@@ -17,30 +17,7 @@
 
 <div align="center">
 
-### `$ whoami`
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Kavlin Kaur"
-        self.role = "AI Architect | Full-Stack Alchemist"
-        self.location = "Dharamsala, IN"
-        self.languages_spoken = ["Python", "JavaScript", "Hindi", "English", "Poetry"]
-        self.current_focus = ["Neural Networks", "System Design", "Open Source"]
-        self.philosophy = "Code that breathes, systems that think, designs that feel"
-        
-    def get_status(self):
-        return {
-            "working_on": "Building intelligent systems that matter",
-            "learning": "Advanced ML architectures & distributed systems",
-            "collaborating": "Open source projects that push boundaries",
-            "dreaming": "AI that understands emotion, not just logic"
-        }
-```
-
-</div>
-
----
 
 ## `> system.status()`
 
