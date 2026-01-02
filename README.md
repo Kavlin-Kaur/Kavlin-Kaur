@@ -77,6 +77,8 @@ class Kavlin:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kavlin-Kaur&theme=highcontrast&hide_border=true&background=0D1117&ring=FF00FF&fire=FF00FF&currStreakLabel=00FF00)
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kavlin-Kaur&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00FF00&line=FF00FF&point=FFFFFF)
+
 </div>
 
 ---
@@ -204,6 +206,16 @@ class Kavlin:
 <div align="center">
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Kavlin-Kaur&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
+
+</div>
+
+---
+
+## `> contribution --snake-animation`
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Kavlin-Kaur/Kavlin-Kaur/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
