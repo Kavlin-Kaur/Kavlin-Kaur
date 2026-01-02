@@ -35,8 +35,6 @@
                 ||     ||
 ```
 
-<div align="center">
-
 ```python
 #!/usr/bin/env python3
 
@@ -44,21 +42,21 @@ class Kavlin:
     """
     Where code meets creativity, and logic dances with poetry
     """
+    
     def __init__(self):
         self.role = ["Developer", "AI Enthusiast", "Poet", "Problem Solver"]
         self.passion = "Building systems that think AND creating verses that feel"
         self.philosophy = "Every algorithm tells a story, every function is a metaphor"
-        
+    
     def get_stack(self):
         return "Python • JavaScript • React • Django • Flask • AI/ML • Cloud"
     
     def current_mood(self):
         return "🔥 Cooking something cool // 📊 Stats speak louder than words"
 
+
 # The rest? Scroll down and discover yourself 👇
 ```
-
-</div>
 
 ---
 
@@ -78,8 +76,6 @@ class Kavlin:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kavlin-Kaur&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FF00&text_color=FFFFFF&include_all_commits=true&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kavlin-Kaur&theme=highcontrast&hide_border=true&background=0D1117&ring=FF00FF&fire=FF00FF&currStreakLabel=00FF00)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kavlin-Kaur&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00FF00&line=FF00FF&point=FFFFFF)
 
 </div>
 
@@ -208,16 +204,6 @@ class Kavlin:
 <div align="center">
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Kavlin-Kaur&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
-
-</div>
-
----
-
-## `> contribution --snake-animation`
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Kavlin-Kaur/Kavlin-Kaur/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
