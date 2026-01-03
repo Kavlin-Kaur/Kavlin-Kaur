@@ -35,28 +35,6 @@
                 ||     ||
 ```
 
-```python
-#!/usr/bin/env python3
-
-class Kavlin:
-    """
-    Where code meets creativity, and logic dances with poetry
-    """
-    
-    def __init__(self):
-        self.role = ["Developer", "AI Enthusiast", "Poet", "Problem Solver"]
-        self.passion = "Building systems that think AND creating verses that feel"
-        self.philosophy = "Every algorithm tells a story, every function is a metaphor"
-    
-    def get_stack(self):
-        return "Python • JavaScript • React • Django • Flask • AI/ML • Cloud"
-    
-    def current_mood(self):
-        return "🔥 Cooking something cool // 📊 Stats speak louder than words"
-
-
-# The rest? Scroll down and discover yourself 👇
-```
 
 ---
 
