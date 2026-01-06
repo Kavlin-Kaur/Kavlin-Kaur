@@ -169,13 +169,7 @@
 
 ---
 
-## `> languages --most-used`
 
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavlin-Kaur&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=FFFFFF)
-
-</div>
 
 ---
 
