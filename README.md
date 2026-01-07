@@ -51,10 +51,6 @@
 
 <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kavlin-Kaur&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FF00&text_color=FFFFFF&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kavlin-Kaur&theme=highcontrast&hide_border=true&background=0D1117&ring=FF00FF&fire=FF00FF&currStreakLabel=00FF00)
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kavlin-Kaur&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00FF00&line=FF00FF&point=FFFFFF)
 
 </div>
