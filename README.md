@@ -165,12 +165,6 @@
 
 ---
 
-
-
-
-
----
-
 ## `> contribution --snake-animation`
 
 <div align="center">
