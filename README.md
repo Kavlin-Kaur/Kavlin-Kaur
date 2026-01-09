@@ -162,17 +162,7 @@
 ```
 
 </div>
-
 ---
-## 🏆 GitHub Stats & Achievements
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kavlin-Kaur&show_icons=true&theme=radical&hide_border=true)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Kavlin-Kaur&theme=darkhub&no-frame=true&row=1&column=6)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kavlin-Kaur&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavlin-Kaur&layout=compact&theme=radical&hide_border=true)
 
 ## `> contribution --snake-animation`
 
