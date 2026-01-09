@@ -164,6 +164,15 @@
 </div>
 
 ---
+---
+
+## 🏆 GitHub Stats & Achievements
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kavlin-Kaur&show_icons=true&theme=radical)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Kavlin-Kaur&theme=darkhub&no-frame=true&row=1)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kavlin-Kaur&theme=dark)
 
 ## `> contribution --snake-animation`
 
