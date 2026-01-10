@@ -106,11 +106,12 @@ me.say_hi()
 <div align="center">
 
 <a href="https://github.com/Kavlin-Kaur">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kavlin-Kaur&theme=aura" height="180em" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kavlin-Kaur&theme=aura" height="180em" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kavlin-Kaur&theme=aura" height="180em" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kavlin-Kaur&theme=aura" height="180em" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kavlin-Kaur&theme=aura" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kavlin-Kaur&theme=aura" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kavlin-Kaur&theme=aura" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kavlin-Kaur&theme=aura" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kavlin-Kaur&theme=aura&utcOffset=5.5" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kavlin-Kaur&theme=aura" height="180em" />
+</a>
 
 </div>
 
@@ -120,12 +121,12 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kavlin-Kaur&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF00&fire=FF00FF&currStreakLabel=00FF00" alt="GitHub Streak" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Kavlin-Kaur&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=FF00FF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kavlin-Kaur&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF00&fire=FF00FF&currStreakLabel=00FF00" alt="GitHub Streak" width="49%"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kavlin-Kaur&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=FF00FF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%"/>
 
 <br><br>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Kavlin-Kaur&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=Kavlin-Kaur&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 
 </div>
 
