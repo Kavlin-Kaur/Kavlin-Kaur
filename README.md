@@ -13,7 +13,7 @@
 ╚═══════════════════════════════════════════════════════════════════════════╝
 ```
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F700&background=00000000&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%7C+AI%2FML+Engineer;Code+is+Poetry%2C+Poetry+is+Code;Building+Intelligent+Systems;Open+Source+Contributor;Where+Logic+Meets+Creativity)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%7C+AI%2FML+Engineer;Code+is+Poetry%2C+Poetry+is+Code;Building+Intelligent+Systems;Open+Source+Contributor;Where+Logic+Meets+Creativity)](https://git.io/typing-svg)
 
 </div>
 
@@ -35,7 +35,6 @@
                 ||     ||
 ```
 
-
 ---
 
 ## `> system --show-contributions`
@@ -51,7 +50,12 @@
 
 <br>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kavlin-Kaur&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00FF00&line=FF00FF&point=FFFFFF)
+<img src="https://github-readme-stats.vercel.app/api?username=Kavlin-Kaur&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=FF00FF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kavlin-Kaur&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF00&fire=FF00FF&currStreakLabel=00FF00" alt="GitHub Streak" width="49%"/>
+
+<br>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kavlin-Kaur&custom_title=Kavlin's%20Contribution%20Graph&bg_color=0D1117&color=00FF00&line=FF00FF&point=FFFFFF&hide_border=true&area=true&area_color=00FF00)
 
 </div>
 
@@ -114,13 +118,18 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <br>
 
@@ -137,6 +146,21 @@
                                    │
                            [FULL STACK MAGIC]
 ```
+
+</div>
+
+---
+
+## `> github --statistics`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavlin-Kaur&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&langs_count=8" alt="Top Languages" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kavlin-Kaur&theme=tokyonight&utcOffset=5.5" alt="Productive Time" width="48%"/>
+
+<br>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Kavlin-Kaur&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
 
 </div>
 
@@ -162,13 +186,18 @@
 ```
 
 </div>
+
 ---
 
 ## `> contribution --snake-animation`
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Kavlin-Kaur/Kavlin-Kaur/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kavlin-Kaur/Kavlin-Kaur/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kavlin-Kaur/Kavlin-Kaur/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kavlin-Kaur/Kavlin-Kaur/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -192,6 +221,7 @@ Open for collaborations, conversations, and creative projects
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kavlin-Kaur)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kavlinkaur2907@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/k_kavlin)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/Kavlin-Kaur)
 
 <br>
 
@@ -219,6 +249,23 @@ Open for collaborations, conversations, and creative projects
 ![Profile Views](https://komarev.com/ghpvc/?username=Kavlin-Kaur&color=blueviolet&style=for-the-badge&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/Kavlin-Kaur?style=for-the-badge&color=green&logo=github)
 ![Stars](https://img.shields.io/github/stars/Kavlin-Kaur?style=for-the-badge&color=yellow&logo=github)
+
+<br>
+
+### 💝 Support My Work
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/kavlinkaur)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/kavlinkaur)
+
+</div>
+
+---
+
+## `> quote --random`
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
@@ -253,3 +300,26 @@ while True:
 
 </div>
 
+---
+
+<div align="center">
+
+### 🎮 Interactive Snake Game
+
+**Click below to play Snake and eat my contributions! 🐍**
+
+[![Snake Game](https://img.shields.io/badge/🎮_Play-Snake_Game-00FF00?style=for-the-badge)](https://kavlin-kaur.github.io/snake-game)
+
+*Swipe through my contribution history in the most fun way possible!*
+
+</div>
+
+---
+
+<div align="center">
+
+**Made with 💚 by Kavlin Kaur**
+
+**[⬆ Back to Top](#)**
+
+</div>
