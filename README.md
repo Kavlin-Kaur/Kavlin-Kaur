@@ -62,7 +62,7 @@ me.say_hi()
 
 <div align="center">
 
-[![Hacktoberfest 2025](https://img.shields.io/badge/Hacktoberfest-2024-blueviolet?style=for-the-badge&logo=hacktoberfest&logoColor=white)](https://hacktoberfest.com/)
+[![Hacktoberfest 2025](https://img.shields.io/badge/Hacktoberfest-2025-blueviolet?style=for-the-badge&logo=hacktoberfest&logoColor=white)](https://hacktoberfest.com/)
 [![Top 10K](https://img.shields.io/badge/Global-Top%2010K-orange?style=for-the-badge&logo=hacktoberfest&logoColor=white)](https://hacktoberfest.com/)
 [![GSSoC 2025](https://img.shields.io/badge/GSSoC-2025%20Contributor-green?style=for-the-badge&logo=git&logoColor=white)](https://gssoc.girlscript.tech/)
 [![Open Source](https://img.shields.io/badge/Open%20Source-Enthusiast-red?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://github.com/Kavlin-Kaur)
