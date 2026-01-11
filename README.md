@@ -105,12 +105,7 @@ me.say_hi()
 
 <div align="center">
 
-<a href="https://github.com/Kavlin-Kaur">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kavlin-Kaur&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=FF00FF&text_color=FFFFFF&count_private=true" height="170em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavlin-Kaur&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&langs_count=8" height="170em" />
-</a>
 
-<br><br>
 
 <a href="https://github.com/Kavlin-Kaur">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kavlin-Kaur&custom_title=Kavlin's%20Contribution%20Graph&bg_color=0D1117&color=00FF00&line=FF00FF&point=FFFFFF&hide_border=true&area=true&area_color=00FF00" width="98%"/>
