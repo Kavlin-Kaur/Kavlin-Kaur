@@ -86,9 +86,9 @@ me.say_hi()
 ```ascii
      [FRONTEND]           [BACKEND]           [AI/ML]            [DEVOPS]
          │                    │                  │                  │
-    ┌────┴────┐          ┌────┴────┐       ┌────┴────┐        ┌────┴────┐
+    ┌────┴────┐          ┌────┴────┐       ┌────┴──-──┐        ┌────┴────┐
     │ React   │          │ Django  │       │TensorFlow│        │ Docker  │
-    │ Next.js │────────▶ │ Flask   │──────▶│ PyTorch │───────▶│Kubernetes│
+    │ Next.js │────────▶│ Flask   │──────▶│ PyTorch │───────▶│Kubernetes│
     │Tailwind │          │FastAPI  │       │Scikit-L │        │  AWS    │
     └─────────┘          └─────────┘       └─────────┘        └─────────┘
          │                    │                  │                  │
