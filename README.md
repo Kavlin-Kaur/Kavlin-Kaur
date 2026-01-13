@@ -76,7 +76,7 @@ me.say_hi()
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,js,java,cpp,react,nextjs,nodejs,express,django,flask,fastapi,pytorch,git,github,docker,aws,mongodb,mysql,postgres,redis,firebase,tailwind,sass,html,css,figma,vscode,linux,nginx,jenkins,kubernetes,,postman,babel,bun,npm,prisma,graphql,redux&perline=14" />
+  <img src="https://skillicons.dev/icons?i=python,js,java,cpp,react,nextjs,nodejs,express,django,flask,fastapi,pytorch,git,github,docker,aws,mongodb,mysql,postgres,redis,firebase,tailwind,sass,html,css,figma,vscode,linux,nginx,jenkins,kubernetes,,postman,npm,redux&perline=14" />
 </a>
 
 </div>
