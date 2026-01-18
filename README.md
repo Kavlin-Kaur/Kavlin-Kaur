@@ -282,7 +282,16 @@ me.say_hi()
 ║                                                                   ║
 ╚═══════════════════════════════════════════════════════════════════╝
 ```
+```python
+# Thanks for visiting! 
+while True:
+    keep_coding()
+    keep_creating()
+    keep_learning()
+    # And never stop exploring 🚀
+```
 
+**Made with 💚 by Kavlin Kaur**
 
 
 **[⬆ Back to Top](#-hi-im-kavlin-kaur)**
