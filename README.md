@@ -227,7 +227,7 @@ me.say_hi()
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <div align="center">
----
+
 <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
 <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
 <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
